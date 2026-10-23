@@ -1,0 +1,57 @@
+{
+  "name": "Barakah Deals BD",
+  "tagline": "Trusted Online Shop",
+  "taglineBn": "সুস্থতা, সৌন্দর্য আর বিশুদ্ধতায়",
+  "handle": "@barakahdealsbd",
+  "phone": "+880 1328-558888",
+  "whatsapp": "8801328558888",
+  "messenger": "barakahdealsbd",
+  "email": "info@barakahdealsbd.com",
+  "address": "Dhaka, Bangladesh",
+  "hours": "Sat – Thu, 10:00 AM – 9:00 PM",
+  "social": {
+    "facebook": "https://www.facebook.com/barakahdealsbd",
+    "instagram": "https://www.instagram.com/barakahdealsbd",
+    "youtube": "",
+    "tiktok": ""
+  },
+  "currency": "৳",
+  "delivery": {
+    "insideDhaka": 70,
+    "outsideDhaka": 130,
+    "freeAbove": 3000
+  },
+  "payments": {
+    "cod": {
+      "enabled": true
+    },
+    "bkash": {
+      "enabled": true,
+      "number": "01328-558888",
+      "type": "Personal"
+    },
+    "nagad": {
+      "enabled": true,
+      "number": "01328-558888",
+      "type": "Personal"
+    },
+    "rocket": {
+      "enabled": false,
+      "number": "",
+      "type": "Personal"
+    }
+  },
+  "coupons": {
+    "BARAKAH10": {
+      "type": "percent",
+      "value": 10,
+      "minOrder": 1000
+    },
+    "WELCOME100": {
+      "type": "flat",
+      "value": 100,
+      "minOrder": 1500
+    }
+  },
+  "flashSaleEndHour": 23
+}
